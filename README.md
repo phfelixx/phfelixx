@@ -20,9 +20,9 @@
 Sou desenvolvedor full stack focado em entregar produtos **performáticos**, **escaláveis** e com **excelente UX**.  
 Gosto de **arquitetura bem pensada**, **código limpo**, automação e observabilidade.
 
-- 🔧 Stack principal: **Node.js, React, TypeScript, Java, Spring Boot**
-- 🧩 Interesses: **IoT**, **microsserviços**, **mensageria**, **DevOps**
-- 📐 Mantra: _“Código limpo + arquitetura sólida = produto incrível.”_
+- Stack principal: **Node.js, React, TypeScript, Java, Spring Boot**
+- Interesses: **IoT**, **microsserviços**, **mensageria**, **DevOps**
+- Mantra: _“Código limpo + arquitetura sólida = produto incrível.”_
 
 
 <!-- STACKS -->
